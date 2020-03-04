@@ -1,2 +1,4 @@
-# realicejoanne.github.io
-CV and Portfolio of Patricia Joanne launched in Github Pages.
+# Under Construction
+For the time being, you can contact me via [trianne24@gmail.com](mailto:trianne24@gmail.com)
+
+Thank you!
