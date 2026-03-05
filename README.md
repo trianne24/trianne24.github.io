@@ -1,6 +1,20 @@
-# Under Construction
-Hi, I’m Pat! Thanks for stopping by.
-This site is currently in the works — I’d love for you to come back in a few!
-In the meantime, feel free to check out my [résumé](https://bit.ly/CVPatricia2019). You can also contact me via [trianne24@gmail.com](mailto:trianne24@gmail.com).
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Thank you!
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/380a6305-759c-4f50-b17e-73529b56c25f
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
